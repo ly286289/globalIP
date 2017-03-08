@@ -1,1 +1,1 @@
-<a href="http://61.55.230.64:1080">link</a>
+<a href="http://:1080">link</a>
